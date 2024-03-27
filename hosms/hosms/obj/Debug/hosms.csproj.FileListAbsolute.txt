@@ -1,0 +1,10 @@
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\bin\Debug\hosms.exe.config
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\bin\Debug\hosms.exe
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\bin\Debug\hosms.pdb
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.csproj.AssemblyReference.cache
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.Form1.resources
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.Properties.Resources.resources
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.csproj.GenerateResource.cache
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.exe
+C:\Users\Dayan\OneDrive\Documents\ATE\hosms\hosms\obj\Debug\hosms.pdb
